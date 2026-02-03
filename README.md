@@ -1,17 +1,18 @@
-# Student Management System
-
-Python project to manage student records using MySQL.
-
-## Features
-- Add student
-- View students
-- Delete student
-
-## Technologies
+## Tech Stack
 - Python
 - MySQL
-- OOP
+- mysql-connector-python
 
-## Run
-pip install -r requirements.txt
-python main.py
+## How to Run
+1. Clone the repository
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Configure MySQL in db_config.py
+4. Run:
+   python main.py
+
+## Learning Outcomes
+- Python OOP
+- Database connectivity
+- CRUD operations
+- Git & GitHub
